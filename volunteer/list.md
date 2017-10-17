@@ -1,7 +1,7 @@
 
 
 
-| Name          | Project  interest   | Cool  |
+| Name          | Project  interest   | comments  |
 | ------------- |:-------------:| -----:|
 | Neetu Jain       | re-entry  |  |
 | Neetu Jain       | payback  |  |
