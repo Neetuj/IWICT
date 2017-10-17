@@ -1,9 +1,9 @@
 
 
 
-| Name          | Project  interest   | comments  |
-| ------------- |:-------------:| -----:|
-| Neetu Jain       | re-entry  |  |
-| Neetu Jain       | payback  |  |
-| Neetu Jain       | FOSS  |  |
+| Name          | Project  interest   | Location  | other comments  |
+| ------------- |:-------------:| -----:|-----:|
+| Neetu Jain       | re-entry  |Tx  | |
+| Neetu Jain       | payback  | Tx | |
+| Neetu Jain       | FOSS  | Tx | |
 
