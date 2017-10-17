@@ -20,3 +20,6 @@ Action Items for first timers:-
  * **Re-entry**: Help other IWICT re-enter the workforce after marraige, kids, visa-relate break etc.
  * **Meetups+Socials**: Organise meetups/socials to connect not only virtually but also face to face.
  
+ 
+ Want to help?? sign up in the [volunteer section ](volunteer/list.md)
+ 
