@@ -4,7 +4,7 @@ IWICT is an official chapter of the Anita Borg Institute for Women and Technolog
 Our Mission is to support, inspire, retain, encourage collaboration among, increase visibility of and help elevate the status of India women in technology, and help them to achieve their career goals. 
 
 Action Items for first timers:- 
- * Join our mailing list http://systers.org/mailman/listinfo/indianwic/
+ * Join our *mailing list* http://systers.org/mailman/listinfo/indianwic/
      * get active on the mailing list by sharing relevant topics, opportunities, information
  * connect with us on Linkedin https://www.linkedin.com/groups/6673756
  * connect with us on Facebook https://www.facebook.com/groups/abi.indianwic/
