@@ -18,4 +18,5 @@ Action Items for first timers:-
  * Fund-raise: Fund raise for scholarships for studies and conferences, awards to promote and support India women in computing& technology at all levels.
  * Publish: Publish newsletters, blogs , job opportunities, Conference and Scholarship information.
  * Re-entry: Help other IWICT re-enter the workforce after marraige, kids, visa-relate break etc.
+ * Meetups+Socials: Organise meetups/socials to connect not only virtually but also face to face.
  
