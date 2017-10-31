@@ -7,3 +7,4 @@
 | Neetu Jain       | payback  | Tx | |
 | Neetu Jain       | FOSS  | Tx | |
 | Sangeetha KP     | Publish | Chennai | 
+| Kruthika Vishwanath     | Publish | TX | 
