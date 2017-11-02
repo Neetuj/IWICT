@@ -13,3 +13,6 @@ Note: this is a public document
 | Grishma Jena     | Meetups | |
 | Rajeshwari S     | Publish |    |
 | Rajeshwari S     | Mentor  |    | Academic
+| Anjali          | Mentor  |       | |
+| Anjali    | FOSS  |    | |
+
