@@ -15,4 +15,6 @@ Note: this is a public document
 | Rajeshwari S     | Mentor  |    | Academic
 | Anjali          | Mentor  |       | |
 | Anjali    | FOSS  |    | |
-
+| Nida       | re-entry  |  | |
+| Nida       | payback  |  | |
+| Nida       | publish  |  | |
