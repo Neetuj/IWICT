@@ -1,1 +1,16 @@
-itest
+Adding some ideas 
+- Free workshops by systers about the booming technologies.
+- Periodic Meetings.
+- Committee to spread the word about IWIC in the organizations.
+- Activities in the rural schools in the south and north India to bring more girls in to tech.
+- "career comeback initiatives for women in India after baby/marriage or whatever the reason was for the break"
+- network with women tech entrepreneurs
+- explore how we can help, contribute with non-tech women entrepreneurs
+- facilitating scholarships for girls/women in India to go to conferences (specially GHC)
+-showcase systers-india specially the GSOC students this year (2015 or past years)
+-share info about opportunities, hackathons e.t.c in the IWIC portal
+- Corporate sponsorships for students/working women to attend GHC india 
+- forums to get assistance in professional and personal life
+- free certification courses 
+An online magazine to showcase Indian women in tech, since we do not get to hear much about Indian women in STEM and their achievements
+Collaborate with engineering colleges through hackathons, trainings and sponsorships to encourage women to be makers, to network with experienced Systers and to make them aware of the existing opportunities
