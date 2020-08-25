@@ -9,6 +9,16 @@ Action Items for first timers:-
  * connect with us on [**Linkedin**]( https://www.linkedin.com/groups/6673756)
  * connect with us on [**Facebook**]( https://www.facebook.com/groups/abi.indianwic/)
  
+ Current Projects:- 
+* IamRemarkable 
+* Remote MasterMind Mentorship Program 
+* Job Board 
+* Square Circle 
+* Open Source 
+* Spotlight Series
+* Tech Tuesday
+* Her Tech Hour 
+
  
  Projects we want to take up (and need volunteers to lead these efforts)
  * **Mentor** : Develop a mentoring program to support Indian women in computing (academics, entrepreneurs, and women in industry).
