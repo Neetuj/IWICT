@@ -8,6 +8,13 @@ Action Items for first timers:-
      * get active on the mailing list by sharing relevant topics, opportunities, information
  * connect with us on [**Linkedin**]( https://www.linkedin.com/groups/6673756)
  * connect with us on [**Facebook**]( https://www.facebook.com/groups/abi.indianwic/)
+  * Facebook Group - https://www.facebook.com/groups/abi.indianwic/ 
+ * Facebook Page : https://www.facebook.com/IndianWiC/
+ * YouTube https://www.youtube.com/channel/UCdvrV35UBktgaDTYEVb25fw?view_as=public
+ * Slack: https://join.slack.com/t/indianwic/shared_invite/zt-e770i0px-jwZS_Nr2v810gKaGjiPwPA
+ * Linkedin: https://www.linkedin.com/company/indianwic/
+ * Twitter: https://twitter.com/indian_wic/
+ * Instagram https://www.instagram.com/indian_wic/
  
  Current Projects:- 
 * IamRemarkable 
