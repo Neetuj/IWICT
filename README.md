@@ -1,6 +1,6 @@
-# IWICT
-Indian Women in computing & technology
-IWICT is an official chapter of the Anita Borg Institute for Women and Technology (Systers) and is dedicated to supporting Indian women in technology and connecting them with women technologists across the globe.
+# IWIC
+Indian Women in computing 
+IWIC is an official chapter of the Anita Borg Institute for Women and Technology (Systers) and is dedicated to supporting Indian women in technology and connecting them with women technologists across the globe.
 Our Mission is to support, inspire, retain, encourage collaboration among, increase visibility of and help elevate the status of India women in technology, and help them to achieve their career goals. 
 
 Action Items for first timers:- 
